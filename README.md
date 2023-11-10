@@ -1,6 +1,7 @@
-# darwin-plymouth
+# ballads-plymouth
 
-This an awesome, sophisticated and minimalist Plymouth Theme.
+Minimalist Plymouth Theme to change the boot icon to white/black sakura from lost ballads album.
+This is a direct edit of @libredeb darwin's plymouth
 
 ## Prerequisites
 
